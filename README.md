@@ -1,11 +1,6 @@
 # JS 小游戏
 平时做的一些JS小游戏
 
-## 飞机大战
-
-- Source: [https://github.com/oleolema/oleolema.github.io/tree/master/Plane%20Wars](https://github.com/oleolema/oleolema.github.io/tree/master/Plane%20Wars)
-- Play  : [http://oleolema.github.io/Plane%20Wars/](http://oleolema.github.io/Plane%20Wars/)
-
 ## 2048
 
 - Source: [https://github.com/oleolema/2048](https://github.com/oleolema/2048)
@@ -20,3 +15,8 @@
 
 - Source: [https://github.com/oleolema/tetris](https://github.com/oleolema/tetris)
 - Play  : [https://oleolema.github.io/tetris](https://oleolema.github.io/tetris)
+
+## 飞机大战
+
+- Source: [https://github.com/oleolema/oleolema.github.io/tree/master/Plane%20Wars](https://github.com/oleolema/oleolema.github.io/tree/master/Plane%20Wars)
+- Play  : [http://oleolema.github.io/Plane%20Wars/](http://oleolema.github.io/Plane%20Wars/)
